@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+}
+.img {
+  margin-top: 20px;
+  border: 1px solid white;
+  height: 500px;
+  width: 800px;
+   float: left;
+}
+.text{
+  margin-top:180px;
+}
+.hr{
+  margin-top: 190px;
+}
